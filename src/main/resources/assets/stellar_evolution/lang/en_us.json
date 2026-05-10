@@ -1,0 +1,13 @@
+{
+  "itemGroup.stellar_evolution": "Example Mod Tab",
+  "block.stellar_evolution.example_block": "Example Block",
+  "item.stellar_evolution.example_item": "Example Item",
+
+  "stellar_evolution.configuration.title": "Stellar Evolution Configs",
+  "stellar_evolution.configuration.section.stellar_evolution.common.toml": "Stellar Evolution Configs",
+  "stellar_evolution.configuration.section.stellar_evolution.common.toml.title": "Stellar Evolution Configs",
+  "stellar_evolution.configuration.items": "Item List",
+  "stellar_evolution.configuration.logDirtBlock": "Log Dirt Block",
+  "stellar_evolution.configuration.magicNumberIntroduction": "Magic Number Text",
+  "stellar_evolution.configuration.magicNumber": "Magic Number"
+}
