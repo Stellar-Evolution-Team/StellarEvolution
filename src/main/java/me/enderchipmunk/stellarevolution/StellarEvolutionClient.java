@@ -1,4 +1,4 @@
-package com.enderchipmunk.stellarevolution;
+package me.enderchipmunk.stellarevolution;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;

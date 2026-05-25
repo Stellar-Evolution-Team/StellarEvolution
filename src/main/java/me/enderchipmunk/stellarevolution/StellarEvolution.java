@@ -1,4 +1,4 @@
-package com.enderchipmunk.stellarevolution;
+package me.enderchipmunk.stellarevolution;
 
 import org.slf4j.Logger;
 
